@@ -1,0 +1,41 @@
+Self intro:
+===========
+Hi this is Shaik Tajuddin working as DevOps Engineer for Techie horigen for last 4 Years.
+Currently i have been working for XXXX client where our team is managing 2 applications.		
+As a DevOps engineer i make sure the environment is clean and running.
+I have worked on various Devops Tools like Git,Github,Jenkins,maven,Ansible,Docker,Terraform and Kubernetes for orchestration,
+Aws cloud and physical Data Centers.
+
+In aws i have worked on various services like ec2,s3,route53,application load
+balancer,VPC,cloud watch,cloudtrial,elastic container service and elastic container registry.
+
+
+Roles and Responsibilities:
+
+===========================
+we worked along with development teams for next releases,where our team is resposnible for UAT and PROD releases.
+We have weekely release and also flex release which will happen for every 2 or 3 months.
+If we have any monitoring alerts then i will be working on that alerts.
+Managing jenkins pipelines and other infrastructure.
+working on patching activities along with linux team for every quarter
+to make sure the kernels are updated,our team is responsible for
+pre patching and post patching activities.
+We provide 24/7 support means pagerduty if high priority tickets then will
+get a call on mobile and will look into that issue.
+
+Prepatching and post patching activities (Answer only if asked):
+==============================================================
+Patching activities..
+
+Tell that we support patching activities..
+We do pre patching and post patching activities.
+
+Pre patching means bringin down the traffic by disabling the health check,brining down all the services running in the servers.
+
+We have ansible playbooks to do this job.
+
+Post patching means brining up all the services running in the servers and enabling the traffic back.
+Team (Answer only if asked)
+===========================
+We have a team of 6 members from offshore and we work 24/7.
+From onshore we have our manager and scrum master.
